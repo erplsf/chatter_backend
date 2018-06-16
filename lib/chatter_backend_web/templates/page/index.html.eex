@@ -1,0 +1,4 @@
+<script>window.userToken = "<%= assigns[:user_token] %>";</script>
+
+<div id="messages"></div>
+<input id="chat-input" type="text"></input>
